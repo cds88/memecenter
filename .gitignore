@@ -1,0 +1,7 @@
+.virtualenvs
+node_modules
+*.pyc
+*.pyo
+__pycache__
+migrations
+__init__.py
